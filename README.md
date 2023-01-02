@@ -1,4 +1,5 @@
 # esstonbler
+!! OPEN AS RAW FOR BETTER READING EXPERIENCE !!
 stack based esoteric programing language written in python, theoretically should be turing complete but not yet proven
 instruction set in czech:
 to run code, put the python programe into one file with a program.txt file.
