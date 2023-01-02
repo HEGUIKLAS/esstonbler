@@ -1,6 +1,7 @@
 # esstonbler
 stack based esoteric programing language written in python, theoretically should be turing complete but not yet proven
 instruction set in czech:
+to run code, put the python programe into one file with a program.txt file.
 LDA – načte hodnotu na stack, následuje buďto instrukce ADR a číslo n, což načte číslo na adrese n, nebo VAL a číslo n, což na stack načte číslo n.
 STA – uloží hodnotu do paměti, následuje buďto instrukce VAL a čísla n, k, což uloží číslo n na adrese k, nebo SCT a číslo n, což odstraní vrchní hodnotu ze stacku a uloží ji na adresu n.
 PNT – vytiskne hodnoty na stacku
