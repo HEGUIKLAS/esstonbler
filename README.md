@@ -18,7 +18,7 @@ IFF – následuje jeden z 6 operátorů: a potom EXE, FNC a jméno funcke. IFF 
 	EOH – rovná se nebo větší
 	EOS – rovná se nebo menší
 WHL – následuje IFF (a všechno co je potřeba za IFF), pořád provádí IFF dokud operace vrací pravdu, pokud ne tak cyklus končí
-program examples:
+program examples: !! for copying open this file raw !!
 geusseing game:
 IMP
 STA SCT 1
