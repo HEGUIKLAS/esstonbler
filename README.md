@@ -1,5 +1,4 @@
 # esstonbler
-!! OPEN AS RAW FOR BETTER READING EXPERIENCE !!
 
 stack based esoteric programing language written in python, theoretically should be turing complete but not yet proven
 
@@ -28,17 +27,17 @@ EXE – provede funkci, vždy následuje FNC, poté jméno funkce.
 
 IFF – následuje jeden z 6 operátorů: a potom EXE, FNC a jméno funcke. IFF odebere vrchní dvě hodnoty stacku a provede operaci, pokud vyjde pravda, spustí funkci.
 
-EGL – rovná se
+*EGL – rovná se
 
-IGL – nerovná se
+*IGL – nerovná se
 
-SML – striktně menší
+*SML – striktně menší
 
-BIG – striktně větší
+*BIG – striktně větší
 
-EOH – rovná se nebo větší
+*EOH – rovná se nebo větší
 
-EOS – rovná se nebo menší
+*EOS – rovná se nebo menší
 
 WHL – následuje IFF (a všechno co je potřeba za IFF), pořád provádí IFF dokud operace vrací pravdu, pokud ne tak cyklus končí
 
